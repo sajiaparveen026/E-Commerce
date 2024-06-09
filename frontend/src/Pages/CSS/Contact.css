@@ -1,0 +1,135 @@
+.contact-container-front {
+    display: flex;
+    height: 90vh;
+    /* background: lightpink; */
+    width: 100%;
+    position: relative; 
+}
+
+.contact-container-left {
+    z-index: 2; 
+    position: absolute; 
+    left: 0; 
+    /* background: white; */
+    padding: 20px;
+    width: 55%; 
+    padding-left:60px ;
+}
+
+.contact-container-left h3 {
+    font-size: 50px;
+    margin: 20px;
+    color: rgb(6, 53, 53);
+}
+
+.contact-container-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: rgb(6, 53, 53);
+}
+
+.contact-head-first,
+.contact-head-second {
+    border: 1px solid rgb(214, 209, 209);
+    width: 90%;
+    height: 300px;
+    margin-top: 50px;
+    padding: 10px 40px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-head-first:hover{
+    background:rgb(221, 238, 238) ;
+}
+.contact-head-second:hover{
+    background:rgb(221, 238, 238) ;
+}
+.contact-head-first img,
+.contact-head-second img {
+    width: 80px;
+}
+
+.contact-head-first h4,
+.contact-head-second h4 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.contact-head-first p,
+.contact-head-second p {
+    text-align: center;
+    font-size: 12px;
+}
+
+.contact-head-first button,
+.contact-head-second button {
+    background: rgb(6, 53, 53);
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    width: 270px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.contact-container-right {
+    width: 50%; 
+    margin-left: auto; 
+    z-index: 1; 
+}
+
+.contact-container-right img {
+    width: 100%;
+    height: 650px;
+}
+
+.contact-menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px 20px;
+    gap: 13px;
+}
+
+.contact-menus:hover{
+    background: rgb(243, 237, 237);
+}
+.contact-menus{
+    width: 250px;
+    border: 1px solid rgb(199, 195, 195);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-menus h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.contact-menus img{
+    width: 60px;
+}
+
+.menu-content h5{
+    font-size: 15px;
+    text-align: center;
+}
+
+.menu-content p{
+    font-size: 13px;
+    text-align: center;
+}

@@ -13,7 +13,7 @@ const FeaturedPost = () => {
         {leftPost && (
           <>
             <img src={leftPost.image} alt="" />
-            <h5>{leftPost.heading}</h5>
+            <a href={leftPost.link} target="_blank" rel="noopener noreferrer"><h5>{leftPost.heading}</h5></a>
             <p className="post-description">{leftPost.description}</p>
            <div className="left-post-info">
            <p>{leftPost.name}</p>

@@ -37,8 +37,20 @@
   font-size: 30px;
   font-weight: 450;
   margin: 25px 30px 50px 20px;
+  color: black;
 }
 
+.featured-post-left h5:hover{
+    color: rgb(66, 60, 60);
+}
+
+.featured-post-left a{
+    text-decoration: none;
+}
+.featured-post-left a:hover{
+    text-decoration: underline;
+    color: rgb(66, 60, 60);
+}
 .post-description {
   margin: 20px;
   font-size: 15px;

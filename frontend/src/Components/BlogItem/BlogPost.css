@@ -1,0 +1,54 @@
+.post {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  gap: 20px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgb(181, 181, 185);
+}
+
+.post:last-child{
+  border-bottom: none;
+}
+
+.post-left img {
+  width: 250px;
+}
+
+
+.post-right h3 {
+  font-size: 15px;
+  font-weight: 600;
+  color: rgb(12, 25, 27);
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.post-right h3:hover{
+  color: rgb(116, 101, 101);
+}
+
+.post-right a{
+  text-decoration: none;
+}
+
+.post-right a:hover{
+  text-decoration: underline;
+  color: rgb(156, 143, 143);
+}
+
+.post-right p {
+  font-size: 11px;
+  margin-right: 10px;
+}
+
+.post-right-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+

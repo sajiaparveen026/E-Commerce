@@ -11,7 +11,7 @@ let latest_posts = [
     image: img_1,
     heading: "Website Design Proposal: A Beginner’s Guide",
     name: "Jenny Romanchuk",
-    date: "April 03, 2024",
+    date: "3/4/2024",
     link: "https://blog.hubspot.com/website/website-design-proposal-example?hubs_content=blog.hubspot.com%252Fblog%252Ftabid%252F6307%252Fbid%252F34143%252F12-Inspiring-Examples-of-Beautiful-Blog-Homepage-Designs.aspx&hubs_content-cta=Image%2520Source",
   },
   {
@@ -19,7 +19,7 @@ let latest_posts = [
     image: img_2,
     heading: "How to Create an HTML Dropdown Menu ",
     name: "Anna Fitzgerald",
-    date: "June 03, 2024",
+    date: "3/6/2024",
     link: "https://blog.hubspot.com/website/html-dropdown?hubs_content=blog.hubspot.com%252Fblog%252Ftabid%252F6307%252Fbid%252F34143%252F12-Inspiring-Examples-of-Beautiful-Blog-Homepage-Designs.aspx&hubs_content-cta=Image%2520Source",
   },
   {
@@ -27,7 +27,7 @@ let latest_posts = [
     image: img_3,
     heading: "XML Files: What They Are & How to Open Them",
     name: "Jamie Juviler",
-    date: "June 03, 2024",
+    date: "7/6/2024",
     link: "https://blog.hubspot.com/website/what-is-xml-file?hubs_content=blog.hubspot.com%252Fblog%252Ftabid%252F6307%252Fbid%252F34143%252F12-Inspiring-Examples-of-Beautiful-Blog-Homepage-Designs.aspx&hubs_content-cta=Image%2520Source",
   },
   {
@@ -35,7 +35,7 @@ let latest_posts = [
     image: img_4,
     heading: "How to Strike a Balance Between Website Creativity and SEO",
     name: "Irwin Hau",
-    date: "June 04, 2024",
+    date: "4/6/2024",
     link: "https://blog.hubspot.com/website/balance-website-creativity-and-seo?hubs_content=blog.hubspot.com%252Fblog%252Ftabid%252F6307%252Fbid%252F34143%252F12-Inspiring-Examples-of-Beautiful-Blog-Homepage-Designs.aspx&hubs_content-cta=Image%2520Source",
   },
   {
@@ -43,7 +43,7 @@ let latest_posts = [
     image: img_5,
     heading: "13 Tips for Choosing the Perfect Domain Name",
     name: "Zoe Ashbridge",
-    date: "May 27, 2024",
+    date: "27/5/2024",
     link: "https://blog.hubspot.com/website/how-to-choose-domain-name?hubs_content=blog.hubspot.com%252Fblog%252Ftabid%252F6307%252Fbid%252F34143%252F12-Inspiring-Examples-of-Beautiful-Blog-Homepage-Designs.aspx&hubs_content-cta=Image%2520Source",
   },
   {
@@ -51,7 +51,7 @@ let latest_posts = [
     image: img_6,
     heading: "35+ Best Blogging Tools to Grow Your Blog in 2024",
     name: "Anna Fitzgerald",
-    date: "April 03, 2024",
+    date: "3/4/2024",
     link: "https://blog.hubspot.com/website/best-blogging-tools-grow-blog?hubs_content=blog.hubspot.com%252Fblog%252Ftabid%252F6307%252Fbid%252F34143%252F12-Inspiring-Examples-of-Beautiful-Blog-Homepage-Designs.aspx&hubs_content-cta=Image%2520Source",
   },
 ];
